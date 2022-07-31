@@ -1,9 +1,12 @@
 //https://stackoverflow.com/ -> for help
 // https://replit.com/@Omarxploit to host a website or program
+https://thirdweb.com/ clone web
 /* ***** DO NOT CODE HERE!!! *****
 CODE in the file yourPlayground.js
 */
-
+extension://ejbalbakoplchlghecdalmeeeajnimhm/home.html#settings/networks/add-network
+https://faucets.chain.link/ 
+https://thirdweb.com/contracts/new/pre-built/drop/nft-drop
 // console.log('hello world')
 // console.log('Rafeh Qazi')
 
